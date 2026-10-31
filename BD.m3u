@@ -1,7 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="BDTV",MU vd Che
-https://pzhgifbkllliv.vcdn.cloud/1793441322_hd/1793441322_hd@720p.m3u8
+#EXTINF:-1 group-title="BDTV",Link 1
 
-#EXTINF:-2 group-title="BDTV",MU vd CHE
+https://pzhgifbkllliv.vcdn.cloud/1793435582_hd/1793435582_hd@720p.m3u8
 
-https://pzhgifbkllliv.vcdn.cloud/1793435512_hd/1793435512_hd@720p.m3u8
+#EXTINF:-2 group-title="BDTV", Link 2
+
+https://pzhgifbkllliv.vcdn.cloud/1793435579_hd/1793435579_hd@720p.m3u8
+
+#EXTINF:-2 group-title="BDTV", Link 3
+
+https://lilive1.eu.cc/live/6219251f34a49fe1fdbdc6d929fc9a3a/playlist.m3u8
+
+#EXTINF:-2 group-title="BDTV", Link 4
+
+https://pull1.digitalcdn.net/live/85b2ac1ae0e542b184956d826e173619/index.m3u8
