@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="BDTV",Link 1 - GiovangTV
+#EXTINF:-1 group-title="€huonguyen ⚽",GiovangTV
 
-https://pzhgifbkllliv.vcdn.cloud/1793435582_hd/1793435582_hd@720p.m3u8
+https://pzhgifbkllliv.vcdn.cloud/1793376432_hd/1793376432_hd@720p.m3u8
 
-#EXTINF:-2 group-title="BDTV", Link 2 - GiovangTV
+#EXTINF:-2 group-title="€huonguyen ⚽",GiovangTV
 
-https://pzhgifbkllliv.vcdn.cloud/1793435579_hd/1793435579_hd@720p.m3u8
+https://pzhgifbkllliv.vcdn.cloud/1793447236_hd/1793447236_hd@720p.m3u8
 
-#EXTINF:-2 group-title="BDTV", Link 3 - S8TV
+#EXTINF:-2 group-title="€huonguyen ⚽",S8TV
 
-https://hls.lauthaitv.cc/live/mnc-bha-prem/index.m3u8
+https://hls.lauthaitv.cc/live/racing-real-laliga/index.m3u8
 
-#EXTINF:-2 group-title="BDTV", Link 4 - VSCTV
+#EXTINF:-2 group-title="€huonguyen ⚽",VSCTV
 
-https://td1-station.ebaclofen.org/live/pro1/index.m3u8?token=GZUttOJ93S9uaPeFmfT2FQ&time=1793467702
+https://wncdnhls-global.ebaclofen.org/live/vsc-channel-6.m3u8
